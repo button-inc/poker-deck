@@ -57,7 +57,7 @@ For additional guidance, refer to the official [GitHub OAuth documentation](http
 
 ## 🎨 UI with shadcn/ui
 
-We’re using **[shadcn/ui](https://ui.shadcn.dev/)** to build a clean and intuitive interface.
+We’re using **[shadcn/ui](https://ui.shadcn.com/docs)** along with Vercel's {AI bot](https://v0.dev/chat) to build a clean and intuitive interface which also has
 
 ### Key Features:
 
@@ -88,7 +88,7 @@ You can add components to your project in two ways: via the CLI or by manually c
 
 If you'd prefer, you can manually copy and paste the component code into your project:
 
-1. Visit the [shadcn/ui components page](https://ui.shadcn.dev/docs/components).
+1. Visit the [shadcn/ui components page](https://ui.shadcn.com/docs/components).
 2. Find the component you need and copy its code.
 3. Paste the code into your project, making any necessary adjustments to fit your design and setup.
 
