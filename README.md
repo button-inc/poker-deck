@@ -57,7 +57,7 @@ For additional guidance, refer to the official [GitHub OAuth documentation](http
 
 ## 🎨 UI with shadcn/ui
 
-We’re using **[shadcn/ui](https://ui.shadcn.com/docs)** along with Vercel's {AI bot](https://v0.dev/chat) to build a clean and intuitive interface which also has
+We’re using **[shadcn/ui](https://ui.shadcn.com/docs)** along with Vercel's [AI bot](https://v0.dev/chat) to build a clean and intuitive interface which also has
 
 ### Key Features:
 
