@@ -166,9 +166,9 @@ API_URL=https://api.github.com/
 Create a `.env.local` file, as per `.env.local.example`, and add your GitHub OAuth credentials:
 
 ```
-AUTH_SECRET=find-in-one-password-PokerDeck.env.local
-AUTH_GITHUB_ID=find-in-one-password-PokerDeck.env.local
-AUTH_GITHUB_SECRET=find-in-one-password-PokerDeck.env.local
+AUTH_SECRET=find-in-one-password-poker-deck.env.local
+AUTH_GITHUB_ID=find-in-one-password-poker-deck.env.local
+AUTH_GITHUB_SECRET=find-in-one-password-poker-deck.env.local
 ```
 
 ### 3️⃣ Run the Application
