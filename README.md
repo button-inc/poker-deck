@@ -57,7 +57,7 @@ For additional guidance, refer to the official [GitHub OAuth documentation](http
 
 ## 🎨 UI with shadcn/ui
 
-We’re using **[shadcn/ui](https://ui.shadcn.com/docs)** along with Vercel's [AI bot](https://v0.dev/chat) to build a clean and intuitive interface which also has
+We’re using **[shadcn/ui](https://ui.shadcn.com/docs)** along with Vercel's [AI bot](https://v0.dev/chat) to build a clean and intuitive interface. v0, Vercel's generative UI tool, has integrated shadcn/ui as one of its core component libraries . This integration means that when you use v0 to generate user interfaces that seemlessly integrates with the shadcn/ui framework.
 
 ### Key Features:
 
@@ -184,3 +184,11 @@ bun dev
 ```
 
 The app will be available at `http://localhost:3000`.
+
+**NOTE:** This is how it "works for me":
+
+![Onboarding Image](./src/lib/images/onboarding.png "Onboarding Page")
+
+![Dashboard Image](./src/lib/images/dashboard.png "Dashboard Page")
+
+![Poker Image](./src/lib/images/poker.png "Poker Page")
